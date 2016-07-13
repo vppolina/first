@@ -19,6 +19,14 @@ div.menu {
 	margin-left: -5px;
 
 }
+
+.main_link {
+		height: 60px;
+		width: 150px;
+		background-color: #2A2828;
+		margin-bottom: -60px;
+		border: none;
+}
 	
 
 div.block_menu {
